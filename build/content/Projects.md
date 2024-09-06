@@ -1,26 +1,35 @@
-## Project A
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 1
+## Pactify
+Fullstack web application that generates AI Contract
+- ![pactify](../assets/pactify.png)
+- Tags: Notable Projects
 - Badges:
-  - Badge [blue]
+  - MERN [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Code [https://github.com/acca-12/Pactify]
 
-## Project B
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 2
+## Hawkeye
+A systems monitoring tool.
+- ![systems](../assets/systems.png)
+- Tags: Notable Projects
 - Badges:
-  - Badge [blue]
+  - C [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Code [https://github.com/acca-12/Systems_Monitoring_Tool]
 
-## Project C
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 3
+## Naruto Jump
+Platformer game fully done in Assembly
+- ![naruto](../assets/naruto.png)
+- Tags: Notable Projects
 - Badges:
-  - Badge [blue]
+  - Assembly [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Demo [https://www.youtube.com/watch?v=Pn_n_PV33mI&ab_channel=AlfonsoAcosta]
+
+## Walnut
+Fullstack android application for course planning.
+- ![walnut](../assets/walnut.png)
+- Tags: Notable Projects
+- Badges:
+  - Java, Firebase, XML [blue]
+- Buttons:
+  - Code [https://github.com/acca-12/B07-Project]

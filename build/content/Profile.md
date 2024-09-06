@@ -2,18 +2,17 @@
 - Portable Portfolio
 
 ## Header
-- Hi, my name is Eldora. 
-- I'm a software engineer.
-- Short Description Here.
+- Hi, my name is Alfonso. 
+- I'm a student at the University of Toronto.
+- I will be entering my senior year at the University of Toronto.
 
 ## About
-Write your "About" section here.
+I love learning. Currently my fixations are: Graph theory, game theory, piano and languages. Some of my hobbies include reading, basketball, and video games!
 
 ## Contact
-Write your "Contact" section here.
-- LinkedIn: https://linkedin.com/in/username
-- GitHub: https://github.com/username
-- Email: username@gmail.com
+
+- LinkedIn: https://www.linkedin.com/in/alfonso-acosta/
+- GitHub: https://github.com/acca-12
+- Email: alfonsocruzacosta2003@gmail.com
 
 ## Logo
-- EB
