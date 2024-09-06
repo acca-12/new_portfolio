@@ -1,6 +1,6 @@
 ## Pactify
 Fullstack web application that generates AI Contract
-- ![pactify](../assets/pactify.png)
+- ![pactify](assets/pactify.png)
 - Tags: Notable Projects
 - Badges:
   - MERN [blue]
@@ -9,7 +9,7 @@ Fullstack web application that generates AI Contract
 
 ## Hawkeye
 A systems monitoring tool.
-- ![systems](../assets/systems.png)
+- ![systems](assets/systems.png)
 - Tags: Notable Projects
 - Badges:
   - C [blue]
@@ -18,7 +18,7 @@ A systems monitoring tool.
 
 ## Naruto Jump
 Platformer game fully done in Assembly
-- ![naruto](../assets/naruto.png)
+- ![naruto](assets/naruto.png)
 - Tags: Notable Projects
 - Badges:
   - Assembly [blue]
@@ -27,7 +27,7 @@ Platformer game fully done in Assembly
 
 ## Walnut
 Fullstack android application for course planning.
-- ![walnut](../assets/walnut.png)
+- ![walnut](assets/walnut.png)
 - Tags: Notable Projects
 - Badges:
   - Java, Firebase, XML [blue]
