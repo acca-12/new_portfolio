@@ -1,6 +1,6 @@
 ## CIBC
 - *Application Developer Intern* | Sept'24 - Present
-- ![CM-20af2e8c](/public/assets/CM-20af2e8c.png)
+- ![CM-20af2e8c](/assets/CM-20af2e8c.png)
 - Tags: Professional
 - Badges:
   - Core Banking and Payments [blue]
