@@ -1,6 +1,6 @@
 ## CIBC
 - *Application Developer Intern* | Sept'24 - Present
-- ![CM-20af2e8c](../assets/CM-20af2e8c.png)
+- ![CM-20af2e8c](/public/assets/CM-20af2e8c.png)
 - Tags: Professional
 - Badges:
   - Core Banking and Payments [blue]
@@ -11,7 +11,7 @@
 
 ## Maple Bit Services
 - *Software Engineer Intern* | Apr'24 - Jul'24
-- ![maple_bit_services_logo](../assets/maple_bit_services_logo.jpeg)
+- ![maple_bit_services_logo](/public/assets/maple_bit_services_logo.jpeg)
 - Tags: Professional
 - Badges:
   - Backend [blue]
@@ -22,7 +22,7 @@
 
 ## University of Toronto
 - *Mathematics Teaching Assisstant* | Sep'23 - Present
-- ![Utoronto_coa.svg](../assets/Utoronto_coa.svg.png)
+- ![Utoronto_coa.svg](/public/assets/Utoronto_coa.svg.png)
 - Tags: Professional
 - Badges:
   - Calculus I and II [blue]
@@ -32,7 +32,7 @@
 
 ## Archocell
 - *Research and Development Staff* | Oct'20 - Jan'21
-- ![x8iXegMprTMsfHagJLbbFAEXOJs1700146396071_200x200](../assets/x8iXegMprTMsfHagJLbbFAEXOJs1700146396071_200x200.png)
+- ![x8iXegMprTMsfHagJLbbFAEXOJs1700146396071_200x200](/public/assets/x8iXegMprTMsfHagJLbbFAEXOJs1700146396071_200x200.png)
 - Tags: Volunteering
 - Badges:
   - Machine Learning [blue]
